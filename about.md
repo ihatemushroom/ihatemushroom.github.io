@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-I'm not sure yet what this blog is about, but I'm sure I'll work it out soon.
+근거 없는 허튼 소리. 군자의 생각이 아님.
