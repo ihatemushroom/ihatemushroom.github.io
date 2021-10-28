@@ -15,8 +15,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My blog'
-description: 'This is my new blog'
+title: '난 버섯이 싫다'
+description: '버섯은 친해지기가 어렵다'
 permalink: pretty
 logo: "logo.jpg"
 
