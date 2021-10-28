@@ -18,7 +18,7 @@ baseurl: ''
 title: '난 버섯이 싫다'
 description: '버섯은 친해지기가 어렵다'
 permalink: pretty
-logo: "logo.jpg"
+logo: "/assets/logo.jpg"
 
 # Pagination
 paginate: 5
